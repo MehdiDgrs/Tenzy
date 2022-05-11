@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tenzy/static/css/main.5e7c87e0.css",
+    "main.js": "/Tenzy/static/js/main.62cea8ec.js",
+    "static/js/787.3abb90ed.chunk.js": "/Tenzy/static/js/787.3abb90ed.chunk.js",
+    "index.html": "/Tenzy/index.html",
+    "main.5e7c87e0.css.map": "/Tenzy/static/css/main.5e7c87e0.css.map",
+    "main.62cea8ec.js.map": "/Tenzy/static/js/main.62cea8ec.js.map",
+    "787.3abb90ed.chunk.js.map": "/Tenzy/static/js/787.3abb90ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7c87e0.css",
+    "static/js/main.62cea8ec.js"
+  ]
+}
